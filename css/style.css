@@ -1,0 +1,43 @@
+body{
+  background-color:#0C1E7F;
+  color:#D22779;
+  font-family: monospace;
+}
+hr{
+  /* background-color:white; */
+  border-width:7px;
+  border-style: none;
+  border-top-style:dotted;
+  border-color:grey;
+  width:7%;
+}
+a{
+  padding: 100px 5px;
+  color:#D22779;
+  text-decoration: none;
+}
+p{
+  font-size: 15px;
+}
+table,form{
+  font-size: 20px;
+}
+h1,h3{
+  color: #FF008E;
+  font-size: 50px;
+}
+button{
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+  font-size: 20px;
+  border-radius: 30px;
+  background-color: #223494;
+  border: none;
+}
+button:hover{
+  background-color: white;
+}
+.Desc{
+  max-width: 60%;
+}
